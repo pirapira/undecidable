@@ -1,0 +1,51 @@
+
+BODY {
+	background-color: white;
+	color: #000066;
+	margin-left: 10%;
+	margin-right: 10%;
+	font-family: sans-serif;
+}
+
+H1 {
+	text-align: center;
+	padding: 12px 10px 10px 10px;
+	border: thick solid #C0C0FF;
+	background-color: #E0E0FF;
+}
+
+H2 {
+	padding: 5px 5px 5px 10px;
+	border: thin solid #C0C0FF;
+}
+
+H3 {
+	padding: 2px 20px 2px 20px;
+	border-top: 1px solid #C0C0FF;
+	border-bottom: 1px solid #C0C0FF;
+}
+
+BLOCKQUOTE,PRE {
+	background-color: #FFFFFF;
+}
+
+A {
+	text-decoration: none;
+	color: #6060FF;
+}
+
+A:hover {
+	color: #FF0000;
+}
+
+P, UL {
+	margin-bottom: 0px;
+	margin-top: 0px;
+	text-indent: 1em;
+	line-height: 1.5em;
+}
+
+P.footnote {
+	font-size: 10px;
+}
+
